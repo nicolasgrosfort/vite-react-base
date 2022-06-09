@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "short_name": "",
+  "description": "",
+  "icons": [
+    {
+       "src": "./src/assets/favicons/favicon.svg",
+       "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#FFFFFF",
+  "orientation": "any",
+  "lang": "fr"
+}
