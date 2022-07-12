@@ -1,6 +1,6 @@
-import StyledLink from "../../styles/components"
+import StyledLink from '../components/atoms/StyledLink'
 
-const NotFound = () => {
+const _404 = () => {
     return (
         <div>
             <h1>Page introuvable</h1>
@@ -9,4 +9,4 @@ const NotFound = () => {
     )
 }
 
-export default NotFound
+export default _404
