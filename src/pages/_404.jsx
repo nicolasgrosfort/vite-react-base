@@ -1,4 +1,4 @@
-import StyledLink from '../components/atoms/StyledLink'
+import StyledLink from '../atoms/StyledLink'
 
 const _404 = () => {
     return (

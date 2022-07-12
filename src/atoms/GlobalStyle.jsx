@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components'
+import colors from '../styles/config'
 
 export const GlobalStyle = createGlobalStyle`
     body {
@@ -16,6 +17,7 @@ export const GlobalStyle = createGlobalStyle`
         justify-content: center;
         align-items: center;
         align-content: stretch;
+        background-color: ${colors.white};
     }
 
     * {
